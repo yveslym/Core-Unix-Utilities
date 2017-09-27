@@ -46,11 +46,12 @@ Challenges within each section are meant to be solved in order.
 1.  Navigate to your home directory
   * `cd ~`
 1.  Navigate back to the previous directory
-  * `CD ..`
+  * `cd -`
 
 ### Variables
 
 1.  Print a sentence, like `Hello world`
+  * `hello world` 
 1.  Print a variable value, like `$USER` or `$PATH`
 1.  Set a variable `NAME` equal to your first name, then print its value
 1.  Set a variable `FULL_NAME` equal to your full name, then print its value
