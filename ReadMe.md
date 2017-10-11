@@ -51,10 +51,18 @@ Challenges within each section are meant to be solved in order.
 ### Variables
 
 1.  Print a sentence, like `Hello world`
-  * `hello world` 
+  * `create an .sh hello file`
+  * `add echo "hello world" in the new scipt`
+  * `go the folder that contain the script and compile with the command chmod +x\name of the file`
+  * `run the file with command .\name of the file.sh`
+
 1.  Print a variable value, like `$USER` or `$PATH`
+    * `echo $USER`
+    * `echo $PATH`
 1.  Set a variable `NAME` equal to your first name, then print its value
+    * `NAME = YVES ; echo $NAME`
 1.  Set a variable `FULL_NAME` equal to your full name, then print its value
+    * `FULL_NAME = yves songolo; echo $FULL_NAME`
 1.  Print all environment variables (names and values)
 1.  Make an alias named `hello` that prints `Hello world`
 1.  Make an alias named `gocode` that navigates to your code directory
